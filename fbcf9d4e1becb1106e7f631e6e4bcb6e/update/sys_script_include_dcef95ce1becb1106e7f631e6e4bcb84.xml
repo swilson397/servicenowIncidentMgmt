@@ -13,19 +13,20 @@ servicenowIncidentMgmtUtils.prototype = {
     },
 	
 	// Adding a comment
+	// Adding a 2nd comment for STRY00104567
     type: 'servicenowIncidentMgmtUtils'
 };]]></script>
         <sys_class_name>sys_script_include</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-08-10 16:54:57</sys_created_on>
         <sys_id>dcef95ce1becb1106e7f631e6e4bcb84</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>servicenowIncidentMgmtUtils</sys_name>
         <sys_package display_value="servicenowIncidentMgmt" source="fbcf9d4e1becb1106e7f631e6e4bcb6e">fbcf9d4e1becb1106e7f631e6e4bcb6e</sys_package>
         <sys_policy/>
         <sys_scope display_value="servicenowIncidentMgmt">fbcf9d4e1becb1106e7f631e6e4bcb6e</sys_scope>
         <sys_update_name>sys_script_include_dcef95ce1becb1106e7f631e6e4bcb84</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-08-10 16:54:57</sys_updated_on>
+        <sys_updated_on>2023-08-10 17:25:41</sys_updated_on>
     </sys_script_include>
 </record_update>
